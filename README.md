@@ -1,1 +1,2 @@
 # odin-recipes
+The project is to build a recipes website which will link to specific recipes. It will highlight the HTML skills learned: The use of tags and elements such as lists, paragraphs, bold text, italic text, headings, links and images, also handling directories.
